@@ -8,6 +8,7 @@
 // @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice_Userscript.js
 // @author       Paul Sütterlin
 // @match        https://www.campus.rwth-aachen.de/office/*
+// @icon         https://www.campus.rwth-aachen.de/office/system/utils/img/ioLogo/rwth.ico
 // @grant        none
 // ==/UserScript==
 
