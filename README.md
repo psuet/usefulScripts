@@ -6,4 +6,5 @@ Please report any issues and feel free to provide other useful scripts.
 
 ##Legal Stuff
 I am not affiliated with the owners of the website modified though these scripts.
+
 **PLEASE REVIEW THE LICENCE FILE FOR MORE DETAILS**
