@@ -20,7 +20,7 @@ for (var i=0; i < links.snapshotLength; i++)
 {
   var thisLink = links.snapshotItem(i);
   console.log(thisLink);
-  thisLink.innerHTML = 'Mein Plichtmodule';
+  thisLink.innerHTML = 'Meine Plichtmodule';
   thisLink.href = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&mode=field&gguid=0x1C30F2F3AFE6BB4DBB426B3EE7B03C33';
   thisLink.target = '_blank';
 }
