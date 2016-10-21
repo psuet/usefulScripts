@@ -2,8 +2,9 @@
 // ==UserScript==
 // @name         RWTH - Campus Office Enhancer
 // @namespace    https://github.com/psuet/userscripts/
-// @version      0.1
+// @version      0.11
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
+// @description  You have to be a student at RWTH Aachen University to be able to use this userscript
 // @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
 // @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
 // @author       Paul Sütterlin
