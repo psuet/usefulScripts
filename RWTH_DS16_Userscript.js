@@ -9,6 +9,7 @@
 // ==/UserScript==
 
 (function() {
+// Sets default Format for "Übungen" to MathJAX  
 document.evaluate("//select[@name='format']",document,null,9,null).singleNodeValue.selectedIndex=1;
 
 })();
