@@ -8,6 +8,7 @@
 // @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16_Userscript.js
 // @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16_Userscript.js
 // @grant        none
+// @logo         https://www2.math.rwth-aachen.de/DS16/favicon.ico
 // ==/UserScript==
 
 (function() {
