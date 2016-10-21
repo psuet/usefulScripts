@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DS16
+// @name         RWTH - Diskrete Strukturen WS 16
 // @namespace    https://github.com/psuet/userscripts/
 // @version      0.2
 // @description  MathJAX FTW
