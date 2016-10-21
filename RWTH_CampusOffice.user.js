@@ -4,8 +4,8 @@
 // @namespace    https://github.com/psuet/userscripts/
 // @version      0.1
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
-// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice_Userscript.js
-// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice_Userscript.js
+// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
+// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
 // @author       Paul Sütterlin
 // @match        https://www.campus.rwth-aachen.de/office/*
 // @icon         https://www.campus.rwth-aachen.de/office/system/utils/img/ioLogo/rwth.ico
