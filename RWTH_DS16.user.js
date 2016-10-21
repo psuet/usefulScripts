@@ -5,8 +5,8 @@
 // @description  MathJAX FTW
 // @author       Paul Sütterlin
 // @match        https://www2.math.rwth-aachen.de/DS16/exquery.html
-// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16_Userscript.js
-// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16_Userscript.js
+// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16.user.js
+// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_DS16.user.js
 // @grant        none
 // @logo         https://www2.math.rwth-aachen.de/DS16/favicon.ico
 // ==/UserScript==
