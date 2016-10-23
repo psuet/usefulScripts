@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         RWTH - Campus Office Enhancer
 // @namespace    https://github.com/psuet/userscripts/
-// @version      0.2
+// @version      0.21
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @description  You have to be a student at RWTH Aachen University to be able to use this userscript
@@ -23,7 +23,7 @@
         var linktohelp = linkstohelp.snapshotItem(i);
         console.log(linktohelp);
         linktohelp.innerHTML = 'Meine Plichtmodule';
-        linktohelp.href = url;
+        linktohelp.href = urltoModule;
         linktohelp.target = '_blank';
     }
 
