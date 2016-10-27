@@ -1,5 +1,6 @@
-#UserscriptCollection
-This is a private collection of user scripts made for improved usability on various sites.
+#ScriptCollection
+This is a private collection of scripts made for improved usability for me personally.
+###UserScripts
 All of them are only tested in Chrome with Tampermonkey 4.1.10+
 
 Please report any issues and feel free to provide other useful scripts.
