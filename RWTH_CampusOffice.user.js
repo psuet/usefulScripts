@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/userscripts/
-// @version      0.21
+// @version      0.22
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @description  You have to be a student at RWTH Aachen University to be able to use this userscript
