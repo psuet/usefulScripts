@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DS16 
-// @namespace    https://github.com/psuet/userscripts/
+// @namespace    https://github.com/psuet/usefulScripts/
 // @version      0.21
 // @description  MathJAX FTW
 // @author       Paul Sütterlin
