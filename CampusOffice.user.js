@@ -5,8 +5,8 @@
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @description  You have to be a student at RWTH Aachen University to be able to use this userscript
-// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
-// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_CampusOffice.user.js
+// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/CampusOffice.user.js
+// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/CampusOffice.user.js
 // @author       Paul Sütterlin
 // @match        https://www.campus.rwth-aachen.de/office/*
 // @icon         https://www.campus.rwth-aachen.de/office/system/utils/img/ioLogo/rwth.ico
