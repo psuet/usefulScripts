@@ -4,8 +4,8 @@
 // @version      0.22
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
-// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/CampusOffice.user.js
-// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/CampusOffice.user.js
+// @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
+// @downloadURL  https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
 // @author       Paul Sütterlin
 // @match        https://www.campus.rwth-aachen.de/office/*
 // @icon         https://www.campus.rwth-aachen.de/office/system/utils/img/ioLogo/rwth.ico
