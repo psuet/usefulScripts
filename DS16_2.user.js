@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DS16 Check forgotten "-"
-// @namespace    https://paulsuetterlin.de
+// @namespace    https://github.com/psuet/usefulScripts/
 // @version      0.1
 // @description  Avoid invalid answers due to forgotten "-" answers
 // @updateURL    https://github.com/psuet/usefulScripts/raw/master/DS16_2.user.js
