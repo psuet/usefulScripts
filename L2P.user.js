@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         L2P Enhancer
-// @namespace    https://github.com/psuet/userscripts/
+// @namespace    https://github.com/psuet/usefulScripts/
 // @version      0.11
 // @description  Autoredirects you to the page "My Courses"
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/L2P.user.js
