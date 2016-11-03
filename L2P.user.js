@@ -4,8 +4,8 @@
 // @version      0.11
 // @description  Autoredirects you to the page "My Courses"
 // @description  You have to be a student at RWTH Aachen University to be able to use this userscript
-// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_L2P.user.js
-// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/RWTH_L2P.user.js
+// @updateURL    https://raw.githubusercontent.com/psuet/userscripts/master/L2P.user.js
+// @downloadURL  https://raw.githubusercontent.com/psuet/userscripts/master/L2P.user.js
 // @author       Paul Sütterlin
 // @match        https://www3.elearning.rwth-aachen.de/*
 // @grant        none
