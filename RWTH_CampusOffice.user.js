@@ -1,6 +1,5 @@
-
 // ==UserScript==
-// @name         RWTH - Campus Office Enhancer
+// @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/userscripts/
 // @version      0.21
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
