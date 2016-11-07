@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DS16 Check forgotten "-"
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Avoid invalid answers due to forgotten "-" answers
 // @updateURL    https://github.com/psuet/usefulScripts/raw/master/DS16_2.user.js
 // @downloadURL  https://github.com/psuet/usefulScripts/raw/master/DS16_2.user.js
