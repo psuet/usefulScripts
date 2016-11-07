@@ -27,7 +27,7 @@ $("form").submit(function(e) {
     console.log(self);
     if ($(".warn:checkbox:checked").length > 0) {
         e.preventDefault();
-        alert("Nicht alle leeren Antworten wurden abgewählt /n Dies solltest du vor der endgültigen Abgabe beheben.");
+        alert("Nicht alle leeren Antworten wurden abgewählt \n Dies solltest du vor der endgültigen Abgabe beheben.");
         self.submit();
     }
 });
