@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      0.22
+// @version      0.23
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
