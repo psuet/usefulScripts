@@ -14,7 +14,7 @@
 
 (function() {
     //DONT FORGET TO SET URL TO MODULE LIST
-    var urltoModule = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&mode=field&gguid=0x1C30F2F3AFE6BB4DBB426B3EE7B03C33';
+    var urltoModule = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?body=False&group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&mode=field&gguid=0xF835EB60CDF30444BA6B3EACA8E3F09D';
     var linkstohelp = document.evaluate("//a[contains(@href, 'system/help/frameset.asp')]", document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
     for (var i=0; i < linkstohelp.snapshotLength; i++)
     {
