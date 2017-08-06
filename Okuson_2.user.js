@@ -3,8 +3,8 @@
 // @namespace    https://github.com/psuet/usefulScripts/
 // @version      0.23
 // @description  Avoid invalid answers due to forgotten "-" answers
-// @updateURL    https://github.com/psuet/usefulScripts/raw/master/DS16_2.user.js
-// @downloadURL  https://github.com/psuet/usefulScripts/raw/master/DS16_2.user.js
+// @updateURL    https://github.com/psuet/usefulScripts/raw/master/Okuson_2.user.js
+// @downloadURL  https://github.com/psuet/usefulScripts/raw/master/Okuson_2.user.js
 // @author       Paul Sütterlin
 // @require http://code.jquery.com/jquery-latest.js
 // @match        https://www2.math.rwth-aachen.de/*/QuerySheet
