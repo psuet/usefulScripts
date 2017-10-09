@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      0.23
+// @version      0.24
 // @description  Adds Option "Meine Pflichtmodule" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
@@ -14,7 +14,7 @@
 
 (function() {
     //DONT FORGET TO SET URL TO MODULE LIST
-    var urltoModule = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?body=False&group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&mode=field&gguid=0xF835EB60CDF30444BA6B3EACA8E3F09D';
+    var urltoModule = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?body=False&group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&mode=field&gguid=0xDC147AE1CE78974ABBB4552588B6946D';
     var linkstohelp = document.evaluate("//a[contains(@href, 'system/help/frameset.asp')]", document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
     for (var i=0; i < linkstohelp.snapshotLength; i++)
     {
@@ -22,7 +22,7 @@
         console.log(linktohelp);
         linktohelp.innerHTML = 'Meine Plichtmodule';
         linktohelp.href = urltoModule;
-        linktohelp.target = '_blank';
+        linktohelp.target = '_self';
     }
 
     removeFromSidebar("E-Mail Zugänge",2);
