@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Adds Option "Informatik" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
@@ -23,7 +23,7 @@
         console.log(linktohelp);
         linktohelp.innerHTML = 'Informatik';
         linktohelp.style.color = 'red';
-        linktohelp.style['line-height'] = '6em';
+        linktohelp.style['line-height'] = '4em';
         linktohelp.style['font-size'] = '2em';
         linktohelp.style['text-transform'] = 'uppercase';
         linktohelp.href = urltoModule;
@@ -33,6 +33,10 @@
     removeFromSidebar("E-Mail Zugänge",2);
     removeFromSidebar("Adressen",2);
     removeFromSidebar("Funktion eingestellt",3);
+    removeFromSidebar("Geburtstagsübersicht",2);
+    removeFromSidebar("Urlaubsliste",2);
+    removeFromSidebar("Dokumente",2);
+    removeFromSidebar("Aufgaben",2);
 })();
 
 function removeFromSidebar(str,parents){
