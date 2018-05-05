@@ -17,18 +17,16 @@
     // Current: WS17/18 Informatik
     var urltoModule = 'https://www.campus.rwth-aachen.de/office/views/campus/eventlist.asp?group=Bachelor+of+Science+%28B%2ESc%2E%29&field=Informatik+%28B%2ESc%2E%29&gguid=0x8901F5DB775EE74BBB1E7C8DC01BAF86&mode=field';
     var linkstohelp = document.evaluate("//a[contains(@href, 'system/help/frameset.asp')]", document, null, XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE, null);
-    for (var i=0; i < linkstohelp.snapshotLength; i++)
-    {
-        var linktohelp = linkstohelp.snapshotItem(i);
-        console.log(linktohelp);
-        linktohelp.innerHTML = 'Informatik';
-        linktohelp.style.color = 'red';
-        linktohelp.style['line-height'] = '4em';
-        linktohelp.style['font-size'] = '2em';
-        linktohelp.style['text-transform'] = 'uppercase';
-        linktohelp.href = urltoModule;
-        linktohelp.target = '_self';
-    }
+    
+    var linktohelp = linkstohelp.snapshotItem(0);
+    console.log(linktohelp);
+    linktohelp.innerHTML = 'Informatik';
+    linktohelp.style.color = 'red';
+    linktohelp.style['line-height'] = '4em';
+    linktohelp.style['font-size'] = '2em';
+    linktohelp.style['text-transform'] = 'uppercase';
+    linktohelp.href = urltoModule;
+    linktohelp.target = '_self';
 
     removeFromSidebar("E-Mail Zugänge",2);
     removeFromSidebar("Adressen",2);
