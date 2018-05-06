@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Campus Office Enhancer
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Adds Option "Informatik" instead of the Campus Office Help
 // @description  Removes entries from sidebar for deprecated functions
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/CampusOffice.user.js
