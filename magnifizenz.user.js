@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Schmachtenberg
 // @namespace    https://github.com/psuet/usefulScripts/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Brings back Schmachtenberg to campusOffice
 // @updateURL    https://raw.githubusercontent.com/psuet/usefulScripts/master/magnifizenz.user.js
 // @downloadURL  https://raw.githubusercontent.com/psuet/usefulScripts/master/magnifizenz.user.js
 // @author       Julius Rickert
-// @match        https://www.campus.rwth-aachen.de/office/*
+// @match        https://www.campus.rwth-aachen.de/office/
 // @icon         https://www.campus.rwth-aachen.de/office/system/utils/img/ioLogo/rwth.ico
 // @grant        none
 // ==/UserScript==
